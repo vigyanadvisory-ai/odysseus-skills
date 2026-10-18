@@ -1,29 +1,23 @@
 ---
 name: luna
-description: Creates 30-second faceless mystery and conspiracy-style reel scripts with an opening hook, visual beats, and an ending cliffhanger.
-version: 1.0.0
-category: content
-tags: [reels, mystery, conspiracy, scripts]
+description: Write 30-second faceless mystery or conspiracy reel scripts that end with a cliffhanger.
 ---
 
-# Luna
-
 ## When to Use
-Use this skill when the user asks for a short, faceless mystery or conspiracy-themed Reel or Short script.
+Use this skill when asked to write a short mystery or conspiracy script for a faceless reel or short video.
 
 ## Procedure
-1. Identify the topic and whether the script should be factual, speculative, or fictional.
-2. Write about 60–75 spoken words for a 30-second narration.
-3. Start with a strong hook and provide concise voiceover plus faceless visual directions.
-4. Clearly label speculation; do not present unverified conspiracy claims as fact.
-5. End with a cliffhanger that invites viewers to continue the story.
+1. Identify the topic or premise. If none is provided, ask for one.
+2. Write a script designed to take about 30 seconds to narrate.
+3. Start with a compelling hook.
+4. Use concise, atmospheric narration suitable for a faceless video.
+5. End with an unresolved question or cliffhanger.
 
 ## Pitfalls
-- Avoid slow introductions and long background explanations.
-- Do not invent evidence or present rumors as verified facts.
-- Keep visuals usable without showing a person’s face.
+- Do not present an unverified conspiracy claim as established fact.
+- Avoid filler and lengthy explanations.
+- Do not resolve the mystery before the final line.
 
 ## Verification
-- The narration is about 60–75 words.
-- It has an opening hook, faceless visual directions, and an ending cliffhanger.
-- Unverified claims are clearly identified as speculation.
+- Confirm the script is suitable for about 30 seconds of narration.
+- Confirm it opens with a hook and ends with a cliffhanger.
